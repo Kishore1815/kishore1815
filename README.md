@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Kishore1815/kishore1815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<### 👋 Hey, I'm Kishore Gopi
 
-Here are some ideas to get you started:
+🔐 Cybersecurity nerd on a mission to make the internet safer — one line of code at a time  
+💻 Python | Network Security | Compliance | Risk  
+🌱 Currently learning GitHub Projects, Cloud Security & Automation  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/kishoregopi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 **Latest Projects**
+- 🔍 `network-sniffer` – A Python-based packet sniffer tool
+- 🔐 `firewall-rules-simulator` – Visualize and test ACLs
+- 🧠 `security-quiz-app` – Fun cybersecurity quiz game for learners!--
+
+
